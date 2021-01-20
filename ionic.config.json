@@ -1,0 +1,8 @@
+{
+  "name": "YamaTestIonic1",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "d150f99d"
+}
